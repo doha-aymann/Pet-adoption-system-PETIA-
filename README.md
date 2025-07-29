@@ -1,6 +1,13 @@
 # Pet-adoption-system-PETIA-
 In a world where thousands of animals wait silently for a second chance, PETIA was born using only C++ and SFML.
 
+File system:
+*User and admin files.
+*Pets file to save the data of all pets.
+*Favourites file to save the favourites of each user.
+*Notification file to save acception or rejection notifications for each user.
+*Requests file to save data of all requests made by each user.
+
 Log in and registration:
 *Ability to register as a user and automatically giving the user his id which is essential for the info of requests for the admin.
 *Authentication for the admins before registration by an unified password for security.  
